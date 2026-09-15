@@ -3,7 +3,7 @@ message: "If you use this work, please cite it using the metadata below."
 title: "Noumen: The Book of First Dates — Before Selection"
 type: book
 version: "7"
-date-released: 2026-09-02
+date-released: 2026-09-15
 authors:
   - family-names: "Sirenko"
     given-names: "Valeriy"
@@ -35,8 +35,14 @@ keywords:
   - formal reasoning
   - decision theory
   - broken question
-url: "https://github.com/TreeLoys/noumen"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.22770274
+identifiers:
+  - description: Concept DOI (always resolves to the latest version).
+    type: doi
+    value: 10.5281/zenodo.22770273
+  - description: Versioned DOI for version 7.
+    type: doi
+    value: 10.5281/zenodo.22770274
+url: "https://doi.org/10.5281/zenodo.22770273"
 repository-code: "https://github.com/TreeLoys/noumen"
-# doi: add after the first GitHub release archived by Zenodo
-# (zenodo.org/account/settings/github/ is only the webhook;
-#  a published GitHub Release mints 10.5281/zenodo.XXXXXXX).

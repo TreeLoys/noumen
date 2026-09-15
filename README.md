@@ -1,5 +1,7 @@
 # Noumen: The Book of First Dates — Seventh Edition
 
+[![DOI](https://zenodo.org/badge/1354611514.svg)](https://doi.org/10.5281/zenodo.22770273)
+
 Noumen - Before Selection: A Formal Theory of Distinction for Human and Machine Reasoning
 
 ## Abstract
@@ -236,13 +238,17 @@ Every claim must carry an **explicit status**. Mixing statuses — Gate 13.
 
 ## How to cite
 
-Sirenko, V. (2026). *Noumen: The Book of First Dates — Before Selection* (Version 7) [Book]. https://github.com/TreeLoys/noumen
+Sirenko, V. (2026). *Noumen: The Book of First Dates — Before Selection* (Version 7) [Book]. https://doi.org/10.5281/zenodo.22770274
 
-Author ORCID: [0009-0006-0179-9733](https://orcid.org/0009-0006-0179-9733)
+- Version 7 DOI: [10.5281/zenodo.22770274](https://doi.org/10.5281/zenodo.22770274)
+- Concept DOI (latest): [10.5281/zenodo.22770273](https://doi.org/10.5281/zenodo.22770273)
+- Author ORCID: [0009-0006-0179-9733](https://orcid.org/0009-0006-0179-9733)
 
-Citation metadata lives in [`CITATION.cff`](CITATION.cff). A DOI will appear here after the first GitHub release archived by [Zenodo](https://zenodo.org).
+Citation metadata lives in [`CITATION.cff`](CITATION.cff).
 
 ## License and usage
+
+Copyright © 2026 Valeriy Sirenko. This work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (`CC-BY-4.0`). See [`LICENSE`](LICENSE).
 
 The Seventh Edition text is the canonical source in this repository. For agents: **read the full file** before extended application; this README is a map and skill wrapper, not a substitute for the book.
 
@@ -252,6 +258,7 @@ The Seventh Edition text is the canonical source in this repository. For agents:
 
 ## Quick links
 
+- [Zenodo record](https://doi.org/10.5281/zenodo.22770273)
 - [Full Seventh Edition text](The%20book%20of%20first%20dates.%20Seven%20edition.md)
 - [Gates §1](The%20book%20of%20first%20dates.%20Seven%20edition.md#1-before-rewriting-verify)
 - [Dictionary §2](The%20book%20of%20first%20dates.%20Seven%20edition.md#2-dictionary--26-words--3-auxiliary)
