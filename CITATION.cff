@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Noumen: The Book of First Dates — Before Selection"
+type: book
+version: "7"
+date-released: 2026-09-02
+authors:
+  - family-names: "Sirenko"
+    given-names: "Valeriy"
+    alias: "Valeriy Nicolaevich Sirenko"
+    email: "galaktozawr@gmail.com"
+    orcid: "https://orcid.org/0009-0006-0179-9733"
+    website: "https://valeriysirenko.ru"
+    affiliation: "Independent researcher"
+abstract: >
+  A formal framework for epistemic hygiene in human and
+  machine reasoning. It studies how a system distinguishes
+  alternatives under a finite verification budget, and how
+  conclusions depend on question grammar, execution position,
+  admissible set, selector, and verification cost.
+keywords:
+  - artificial intelligence
+  - large language models
+  - LLM reasoning
+  - epistemology
+  - philosophy of AI
+  - machine reasoning
+  - epistemic hygiene
+  - noumenon
+  - distinction
+  - admissible set
+  - verification
+  - verification cost
+  - uncertainty
+  - formal reasoning
+  - decision theory
+  - broken question
+url: "https://github.com/TreeLoys/noumen"
+repository-code: "https://github.com/TreeLoys/noumen"
+# doi: add after the first GitHub release archived by Zenodo
+# (zenodo.org/account/settings/github/ is only the webhook;
+#  a published GitHub Release mints 10.5281/zenodo.XXXXXXX).
